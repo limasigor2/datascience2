@@ -13,13 +13,13 @@ Esse repositório está da seguinte forma: a pasta imgs contém algumas imagens 
 
 .
 ```
-├── Classificação Santander.ipynb
 ├── imgs
 │   ├── header.jpg
 │   ├── santander_custsat_red.png
 │   ├── taxi.gif
 │   └── titanic-decision-tree.png
 ├── README.md
+├── Classificação Santander.ipynb
 ├── Regression taxi.ipynb
 ├── train_santander.csv
 └── train_taxi.csv

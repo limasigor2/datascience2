@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+test_santander.csv
+train_santander.csv
+result.csv
+train_taxi.csv
